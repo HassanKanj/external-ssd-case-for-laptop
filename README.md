@@ -1,10 +1,10 @@
-# External HDD case for laptop (3D files)
+# External HDD case for the laptop (3D files)
 
 Here’s a custom case I designed so I can easily move my MacBook around with my 2 external HDDs.
 
 This repo contains the designs that I used but I have also included the design file (FreeCAD file) so you can modify the dimensions to suit your needs.
 
-On a side note, I already have a FreeCAD course (in Arabic) on YouTube if you want to learn how to 3D design using the open source program FreeCAD, and here’s the link: 
+On a side note, I already have a FreeCAD course (in Arabic) on YouTube if you want to learn how to 3D design using the open source program FreeCAD, and here’s the link: https://www.youtube.com/watch?v=GH1UzPbO2F4&list=PL-pfG3NLl5jY2lb_iF0CPEH7DVZws4aDY
 
 
 ![image](https://github.com/HassanKanj/external-hdd-case-for-laptop/blob/main/documentation/images/1.jpg)
@@ -14,6 +14,8 @@ The design consists of a case and 2 hooks, you can attach the hooks to the case 
 ![image](https://github.com/HassanKanj/external-hdd-case-for-laptop/blob/main/documentation/images/2.jpg)
 
 ![image](https://github.com/HassanKanj/external-hdd-case-for-laptop/blob/main/documentation/images/3.jpg)
+
+![image](https://github.com/HassanKanj/external-hdd-case-for-laptop/blob/main/documentation/images/5.jpg)
 
 ![image](https://github.com/HassanKanj/external-hdd-case-for-laptop/blob/main/documentation/images/4.jpg)
 
@@ -25,6 +27,12 @@ In case you want to know more about my skills or if you would like to hire me, f
 
 And here's my LinkedIn profile as well: https://www.linkedin.com/in/hassankanj 
 
+## Disclaimer
+
+Use this 3D model at your own responsibility, and please note the following:
+
+- Based on my own experience, the design seems sturdy, but I still didn't test it extensively, so there's no guarantees regarding that.
+- I am not sure if orienting the HDD in this way can have side effects on the hard disk, do your research and decide accordingly.
 
 ## License
 
