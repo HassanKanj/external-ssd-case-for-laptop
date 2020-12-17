@@ -31,7 +31,7 @@ And here's my LinkedIn profile as well: https://www.linkedin.com/in/hassankanj
 
 Use this 3D model at your own responsibility, and please note the following:
 
-- Based on my own experience, the design seems sturdy, but I still didn't test it extensively, so there's no guarantees regarding that.
+- Based on my own experience, the design seems sturdy, but I still didn't test it extensively, so there are no guarantees regarding that.
 - I am not sure if orienting the HDD in this way can have side effects on the hard disk, do your research and decide accordingly.
 
 ## License
