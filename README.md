@@ -19,6 +19,10 @@ The design consists of a case and 2 hooks, you can attach the hooks to the case 
 
 ![image](https://github.com/HassanKanj/external-hdd-case-for-laptop/blob/main/documentation/images/4.jpg)
 
+![image](https://github.com/HassanKanj/external-hdd-case-for-laptop/blob/main/documentation/images/6.jpg)
+
+![image](https://github.com/HassanKanj/external-hdd-case-for-laptop/blob/main/documentation/images/7.jpg)
+
 ## About the author
 
 My name is Hassan Kanj, I am an independent programmer (Freelancer), a maker, and a 3D printing enthusiast.
