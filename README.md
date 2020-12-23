@@ -36,7 +36,7 @@ And here's my LinkedIn profile as well: https://www.linkedin.com/in/hassankanj
 Use this 3D model at your own responsibility, and please note the following:
 
 - Based on my own experience, the design seems sturdy, but I still didn't test it extensively, so there are no guarantees regarding that.
-- I am not sure if orienting the HDD in this way can have side effects on the hard disk, do your research and decide accordingly.
+- I am not sure if orienting the HDD in this way can have side effects on the hard disk, do your research and decide accordingly (update: it may decrease the lifespan of a normal HDD while it may not have any effects on SSD drives).
 - Be careful with the added weight on the screen, since it may cause imbalance and might cause damage to your laptop if the screen tilted too much in a certain direction because of the hard disk weight.
 
 ## License
